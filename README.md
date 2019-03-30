@@ -22,6 +22,8 @@ I am suspicious about my employees. I think the younger they are, the more they 
 Connect to Ironhack's database. Retrieve this data from the "absences" table in the "employees" database. 
 
 * Draw the dispersion diagram. What do you see here?
+I see a possible correlation.
+
 * Define a function to calculate the parameters of the regression line. No methods allowed!
 * Calculate the regression line and do some comments.
 * Define a function to calculate the covariance and the correlation (you can use the methods you defined for the standard deviation)
